@@ -16,7 +16,7 @@
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arshdeep-Singh-01&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep-Singh-01&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep-Singh-01&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl" />
     </p>
 
 <hr/>
