@@ -2,7 +2,7 @@
 
 ### About Me
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp; I'm a graduate of IIT Ropar in Computer Science and Engineering\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp; I work as a Quant / Software Developer. Previously, I have worked at Arista Networks as an SDE intern and as a research intern at Queen's University, Canada (MITACS GRI)
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp; I work as a Quant / Software Developer. Previously, I have worked at Arista Networks as an SDE intern and as a research intern at Queen's University, Canada (MITACS GRI)\
 &nbsp;&nbsp;&nbsp; :bug: &nbsp; Most of the bugs I create are in C++, but sometimes I like contributing in Javascript/Typescript too!
 
 <p>
